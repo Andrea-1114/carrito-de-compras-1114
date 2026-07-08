@@ -2,14 +2,14 @@
 El sistema consiste en un programa que permite a los usuarios crear y gestionar una lista de compra.
 El usuario establece un presupuesto limite (400 mil pesos), el cual se va reduciendo automaticamente a medida que se agrega productos.
 
-2 OBJETIVOS
+2 OBJETIVOS:
 Facilitar la organizacion de compra mediante:
 - Control de presupuesto
 - Organizacion de productos
 - Evitar duplicados
 - Clasificacion eficientes
 
-3 FUNCIONALIDADES PRINCIPALES 
+3 FUNCIONALIDADES PRINCIPALES
 1. Lista
 - Agregar productos a la lista
 - Ingresar precio de cada producto
