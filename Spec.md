@@ -30,7 +30,7 @@ Bebidas
 Granos y cereales
 Snacks y dulces
 Productos de aseo personal
-Otros
+Otros 
 
 # 5. Requisitos
 
