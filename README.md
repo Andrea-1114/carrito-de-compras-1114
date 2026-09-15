@@ -1,14 +1,6 @@
   # Lista-de-Compras-1114
-El sistema consite en un programa que permite a los usuarios crear y gestionar una lista de compras.
-El usuario establece un presupuesto limite (ej:400.000 cop),el cual se va reduciendo automáticamente 
-a medida que se agregan productos.
-Objectivos: 
-Facilitar la organización de compras mediante:
-.Control del presupuesto
-.Organización de productos 
-.Evita duplicados
-.Clasificación eficiente 
 
-Servicios: 
-Recordatorio de la compra Datos organizados Aviso del limite del presupuesto
-  
+
+AZcart es un programa que permite crear y organizar una lista de compras de supermercado de forma fácil y rápida. El usuario cuenta con un presupuesto máximo de **$400.000**, y cada vez que agrega un producto, el sistema resta automáticamente su precio del presupuesto disponible.
+
+El programa permite agregar productos, precios y categorías como **frutas, verduras, carnes, lácteos, productos de limpieza, bebidas, granos y aseo personal**. También ayuda a evitar productos repetidos y mantiene la lista organizada para facilitar las compras.
