@@ -1,50 +1,54 @@
-Lista de Compras
+# SPEC – AZcart
 
-# 1. Descripción
+## 1. Nombre del proyecto
 
-**AZcart** es un programa que permite crear y organizar una lista de compras de supermercado de forma fácil y rápida. El usuario cuenta con un presupuesto máximo de **$400.000**, y cada vez que agrega un producto, el sistema resta automáticamente su precio del presupuesto disponible.
+AZcart – Lista de compras**
 
-El programa permite agregar productos, precios y categorías como **frutas, verduras, carnes, lácteos, productos de limpieza, bebidas, granos y aseo personal**. También ayuda a evitar productos repetidos y mantiene la lista organizada para facilitar las compras.
+## 2. Lenguajes y tecnologías
 
+* **HTML:** crear la estructura de la página.
+* **CSS:** diseñar la página y darle estilo.
+* **JavaScript:** hacer funcionar las opciones del sistema.
+* **SQL / MySQL:** guardar y organizar los datos de los productos y compras.
 
-# 2. Objetivo
+## 3. Diseño
 
-Ayudar a organizar las compras, controlar el dinero, evitar productos repetidos y ordenar la lista.
+La página tendrá un diseño moderno, sencillo y organizado.
 
-# 3. Funciones principales
+Tendrá:
 
-Agregar productos y precios.
-Elegir la categoría del producto.
-Calcular el total automáticamente.
-Mostrar cuánto dinero queda.
-Avisar si se supera el presupuesto.
-Evitar productos repetidos.
-Ordenar los productos alfabéticamente.
-Mostrar la cantidad de productos.
+* Menú principal.
+* Formulario para agregar productos.
+* Categorías.
+* Lista de productos.
+* Presupuesto disponible.
+* Total de la compra.
+* Botón para finalizar.
 
-# 4. Categorías
+## 4. Funcionamiento
 
-Frutas
-Verduras
-Lácteos
-Carnes
-Productos de limpieza
-Bebidas
-Granos y cereales
-Snacks y dulces
-Productos de aseo personal
-Otros 
+El usuario podrá ingresar el nombre, precio y categoría de cada producto.
 
-# 5. Requisitos
+El sistema calculará automáticamente el total y restará el valor del presupuesto de **$400.000**.
 
-Registrar productos y precios.
-Calcular el total.
-Controlar el presupuesto.
-Detectar productos repetidos.
-Ordenar y clasificar los productos.
+También verificará productos repetidos y avisará cuando se supere el presupuesto.
 
-# 6. Características
+## 5. Base de datos
 
-Fácil de usar.
-Rápido.
-Información clara y ordenada.
+Se utilizará **MySQL** para almacenar:
+
+* Productos.
+* Precios.
+* Categorías.
+* Cantidad de productos.
+* Información de las compras.
+
+## 6. Herramientas
+
+* Visual Studio Code
+* HTML
+* CSS
+* JavaScript
+* MySQL
+* GitHub
+
