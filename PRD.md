@@ -28,16 +28,10 @@ Facilitar la organizacion de compra mediante:
 - Contar la cantidad total de productos
 - Verificar que no haya productos repetidos
 
-4 SERVICIO DEL SISTEMA
+5. SERVICIO DEL SISTEMA
 - Recordatorio de compra
 - Organizacion automaticas de datos
 - Aviso de limite del presupuesto
-
-5. ROLES
-1- Julian Torres:  Crear la lista, agregar productos y finalizar el proceso.
-2- Andrea Moreno: Contar productos, verificar duplicados y validar cálculos.
-3- Zury Carrillo: organizar la lista en orden alfabético y mostrar lista final estructurada.
-4- Sara Montaño: Clasificar productos por categorías.
 
 6. REQUISITOS FUNCIONALES
 - El sistema debe permitir ingresar productos y precios
