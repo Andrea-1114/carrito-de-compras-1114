@@ -24,6 +24,12 @@ Mostrar la cantidad de productos.
 Frutas
 Verduras
 Lácteos
+Carnes
+Productos de limpieza
+Bebidas
+Granos y cereales
+Snacks y dulces
+Productos de aseo personal
 Otros
 
 # 5. Requisitos
