@@ -2,7 +2,7 @@
 
 ## 1. Nombre del proyecto
 
-AZcart – Lista de compras**
+AZcart – Carrito de Compras
 
 ## 2. Lenguajes y tecnologías
 
