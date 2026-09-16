@@ -1,4 +1,4 @@
-  # Lista-de-Compras-1114
+  # Carrito-de-Compras-1114
 
 ZURY CARRILLO-ANDREA MORENO 
 
