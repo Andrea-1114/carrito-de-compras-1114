@@ -1,8 +1,3 @@
-Aqui tienes el documento **PRD (Product Requirements Document)** completo, formalizado en formato Markdown (`PRD.md`), actualizado y adaptado exactamente a todas las especificaciones visuales, funcionales e interactivas que posee la aplicación web **AZcart**:
-
----
-
-# 📄 Documento de Requisitos del Producto (PRD) — AZcart
 
 ## 1. DESCRIPCIÓN DEL PRODUCTO
 
