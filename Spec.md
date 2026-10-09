@@ -1,4 +1,3 @@
-# SPEC – AZcart
 
 ## 1. Nombre del proyecto
 **AZcart** – Sistema Profesional de Compras y Optimización de Presupuesto.
