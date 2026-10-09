@@ -1,54 +1,33 @@
 # SPEC – AZcart
 
 ## 1. Nombre del proyecto
-
-AZcart – Carrito de Compras
+**AZcart** – Sistema Profesional de Compras y Optimización de Presupuesto.
 
 ## 2. Lenguajes y tecnologías
-
-* **HTML:** crear la estructura de la página.
-* **CSS:** diseñar la página y darle estilo.
-* **JavaScript:** hacer funcionar las opciones del sistema.
-* **SQL / MySQL:** guardar y organizar los datos de los productos y compras.
+- **HTML5:** Estructura web, banner curvo SVG y visor Spline 3D.
+- **CSS3:** Estilo *luxury* (negro/dorado), animaciones y modo claro/oscuro.
+- **JavaScript (ES6+):** Lógica del carrito, cálculo de presupuesto, canvas de partículas y filtrado dinámico.
+- **Python / Flask / MySQL:** Procesamiento de pedidos (`/api/submit-cart`) y almacenamiento de datos.
 
 ## 3. Diseño
-
-La página tendrá un diseño moderno, sencillo y organizado.
-
-Tendrá:
-
-* Menú principal.
-* Formulario para agregar productos.
-* Categorías.
-* Lista de productos.
-* Presupuesto disponible.
-* Total de la compra.
-* Botón para finalizar.
+Interfaz mórbida, inmersiva y de alto impacto visual.
+- **Encabezado:** Menú, buscador en tiempo real, conmutador de tema e ícono de carrito con contador.
+- **Visuales:** Hero slider interactivo, marquesina curva con movimiento y tarjetas informativas.
+- **Gestión:** Formulario de productos, filtro por categorías, panel de presupuesto dinámico y envío de pedido.
 
 ## 4. Funcionamiento
-
-El usuario podrá ingresar el nombre, precio y categoría de cada producto.
-
-El sistema calculará automáticamente el total y restará el valor del presupuesto de **$400.000**.
-
-También verificará productos repetidos y avisará cuando se supere el presupuesto.
+- **Control de Presupuesto:** Cálculo dinámico en tiempo real sobre un tope inicial de **$400.000 COP**.
+- **Validaciones:** Prevención de ítems duplicados y alertas por exceso de saldo.
+- **Interactividad:** Sincronización instantánea entre el catálogo, la lista activa y el resumen JSON del backend.
 
 ## 5. Base de datos
-
-Se utilizará **MySQL** para almacenar:
-
-* Productos.
-* Precios.
-* Categorías.
-* Cantidad de productos.
-* Información de las compras.
+Estructura relacional (**MySQL**) para almacenar:
+- Catálogo de productos (Verduras, Frutas, Lácteos, Carnes, Higiene, Mascotas y Boutique).
+- Historial de compras, usuarios registrados y observaciones de entrega.
 
 ## 6. Herramientas
-
-* Visual Studio Code
-* HTML
-* CSS
-* JavaScript
-* MySQL
-* GitHub
-
+- Visual Studio Code
+- HTML5 / CSS3 / JavaScript
+- Python (Flask)
+- MySQL
+- GitHub / Git
