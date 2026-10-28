@@ -1,32 +1,54 @@
+1. Nombre del proyecto
+*AZcart* – Sistema Profesional de Compras y Optimización de Presupuesto.
 
-## 1. Nombre del proyecto
-**AZcart** – Sistema Profesional de Compras y Optimización de Presupuesto.
+2. Lenguajes y tecnologías
 
-## 2. Lenguajes y tecnologías
-- **HTML5:** Estructura web, banner curvo SVG y visor Spline 3D.
-- **CSS3:** Estilo *luxury* (negro/dorado), animaciones y modo claro/oscuro.
-- **JavaScript (ES6+):** Lógica del carrito, cálculo de presupuesto, canvas de partículas y filtrado dinámico.
-- **Python / Flask / MySQL:** Procesamiento de pedidos (`/api/submit-cart`) y almacenamiento de datos.
+HTML5: Estructura web semántica, banner curvo SVG y visor Spline 3D.
 
-## 3. Diseño
-Interfaz mórbida, inmersiva y de alto impacto visual.
-- **Encabezado:** Menú, buscador en tiempo real, conmutador de tema e ícono de carrito con contador.
-- **Visuales:** Hero slider interactivo, marquesina curva con movimiento y tarjetas informativas.
-- **Gestión:** Formulario de productos, filtro por categorías, panel de presupuesto dinámico y envío de pedido.
+CSS3: Estilo luxury (paleta Black & Gold Imperial), animaciones, Glassmorphism, diseño responsivo y conmutador de modo claro/oscuro.
 
-## 4. Funcionamiento
-- **Control de Presupuesto:** Cálculo dinámico en tiempo real sobre un tope inicial de **$400.000 COP**.
-- **Validaciones:** Prevención de ítems duplicados y alertas por exceso de saldo.
-- **Interactividad:** Sincronización instantánea entre el catálogo, la lista activa y el resumen JSON del backend.
+JavaScript (ES6+): Lógica del carrito en tiempo real, cálculo dinámico de presupuesto, asistente interactivo con IA, llamadas asíncronas (Fetch API), manipulación del DOM y canvas de partículas.
 
-## 5. Base de datos
-Estructura relacional (**MySQL**) para almacenar:
-- Catálogo de productos (Verduras, Frutas, Lácteos, Carnes, Higiene, Mascotas y Boutique).
-- Historial de compras, usuarios registrados y observaciones de entrega.
+Web3Forms API: Servicio de procesamiento asíncrono para el envío de formularios de contacto directamente por correo electrónico sin recarga de página.
 
-## 6. Herramientas
-- Visual Studio Code
-- HTML5 / CSS3 / JavaScript
-- Python (Flask)
-- MySQL
-- GitHub / Git
+Python / Flask / MySQL: Procesamiento backend opcional de pedidos (/api/submit-cart) y almacenamiento relacional de compras.
+
+3. Diseño
+
+Interfaz inmersiva, elegante y de alto impacto visual.
+
+Encabezado Sticky: Menú de navegación, buscador en tiempo real, conmutador de tema e ícono de carrito con contador de ítems activo.
+
+Visuales & Multimedia: Hero slider automático de ofertas, marquesina curva en movimiento SVG, visor interactivo en Spline 3D, canvas de partículas doradas y recursos incrustados de Genially.
+
+Gestión: Formulario para adición manual de productos, filtro interactivo por categorías, asistente de compras AZcart IA, formulario de contacto Web3Forms y panel flotante de presupuesto.
+
+4. Funcionamiento
+
+Control de Presupuesto: Cálculo dinámico e instantáneo del saldo restante sobre un tope inicial de $400.000 COP.
+
+Validaciones: Prevención de ítems duplicados, alertas de sobrepaso de límite financiero y verificación de campos obligatorios.
+
+Envío en Segundo Plano: Procesamiento del formulario de contacto mediante fetch asíncrono hacia Web3Forms, ofreciendo retroalimentación inmediata sin redirigir al usuario.
+
+Interactividad & IA: Respuestas guiadas del Asistente Virtual para sugerir combinaciones de productos óptimas según el saldo.
+
+5. Base de datos
+
+Estructura relacional (MySQL) para almacenar:
+
+Catálogo de productos organizado (Verduras, Frutas, Lácteos, Carnes, Higiene, Mascotas y Boutique).
+
+Historial de transacciones, registro de usuarios y observaciones de entrega.
+
+6. Herramientas y Servicios
+
+Visual Studio Code
+
+Git & GitHub / GitHub Pages
+
+Web3Forms API
+
+Spline 3D Viewer
+
+Genially Embed API
