@@ -1,4 +1,4 @@
-# 📋 Product Requirement Document (PRD) — AZcart
+# *Product Requirement Document (PRD) — AZcart*
 
 ## 1. DESCRIPCIÓN DEL PRODUCTO
 
