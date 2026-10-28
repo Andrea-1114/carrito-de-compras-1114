@@ -21,7 +21,7 @@ El sistema cuenta con un **presupuesto máximo de $400.000 COP**. Cada vez que e
 - **Categorización Completa:** Clasificación organizada en Frutas, Verduras, Lácteos, Carnes, Belleza e Higiene, Bebidas, Granos, Mascotas y Boutique.
 - **Validación Anti-Duplicados:** Verificación automática para evitar ingresar productos repetidos en la lista.
 - **Interfaz Interactiva:** Catálogo filtrable, búsqueda en tiempo real, ícono de carrito con contador, conmutador de modo claro/oscuro y componentes visuales avanzados.
-- **Sincronización Backend:** Formulario de finalización de compra conectado con servidor Python para el registro de pedidos.
+- **Sincronización Backend:** Formulario para dudas quejas y para dejar tu mensaje para el envio del producto  .
 
 ---
 
