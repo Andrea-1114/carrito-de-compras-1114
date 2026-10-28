@@ -4,8 +4,8 @@
 
 Lenguajes y tecnologías
 
-- ** HTML5**: Estructura web semántica, banner curvo SVG y visor Spline 3D.
-- ** CSS3**: Estilo luxury (paleta Black & Gold Imperial), animaciones, Glassmorphism, diseño responsivo y conmutador de modo claro/oscuro.
+- **HTML5**: Estructura web semántica, banner curvo SVG y visor Spline 3D.
+- **CSS3**: Estilo luxury (paleta Black & Gold Imperial), animaciones, Glassmorphism, diseño responsivo y conmutador de modo claro/oscuro.
 
 - **JavaScript (ES6+)**: Lógica del carrito en tiempo real, cálculo dinámico de presupuesto, asistente interactivo con IA, llamadas asíncronas (Fetch API), manipulación del DOM y canvas de partículas.
 
