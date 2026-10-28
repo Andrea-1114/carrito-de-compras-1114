@@ -27,6 +27,9 @@ El sistema cuenta con un **presupuesto máximo de $400.000 COP**. Cada vez que e
 
 ##  Tecnologías Utilizadas
 
-- **Frontend:** HTML5, CSS3 (*Theme Black & Gold Imperial*), JavaScript (ES6+), SVG Canvas, Spline 3D Viewer.
+
+- **Frontend:** HTML5, CSS3 (*Theme Black & Gold Imperial*, *Glassmorphism*), JavaScript (ES6+ / Async-Await / Fetch API), SVG Canvas, Spline 3D Viewer.
+- **Formularios & Integraciones:** Web3Forms API (Procesamiento de formularios de contacto cliente-servidor sin backend dedicado).
 - **Backend / BD:** Python (Flask), MySQL.
-- **Herramientas:** Visual Studio Code, Git & GitHub.
+- **Herramientas & Despliegue:** Visual Studio Code, Git, GitHub y GitHub Pages.
+
